@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.001d071e.css",
-  "main.css.map": "static/css/main.001d071e.css.map",
-  "main.js": "static/js/main.1ddedf37.js",
-  "main.js.map": "static/js/main.1ddedf37.js.map",
+  "main.css": "static/css/main.6deacba5.css",
+  "main.css.map": "static/css/main.6deacba5.css.map",
+  "main.js": "static/js/main.ae022c4f.js",
+  "main.js.map": "static/js/main.ae022c4f.js.map",
   "static\\media\\IMG_2437.JPG": "static/media/IMG_2437.d830a7d7.JPG",
   "static\\media\\IMG_4978.jpg": "static/media/IMG_4978.77db9b15.jpg",
   "static\\media\\gameplanet-min.png": "static/media/gameplanet-min.8ebd0f91.png",
@@ -16,5 +16,6 @@
   "static\\media\\seats-min.png": "static/media/seats-min.fae5af51.png",
   "static\\media\\seats1-min.png": "static/media/seats1-min.8d6a8faa.png",
   "static\\media\\sushi-min.png": "static/media/sushi-min.31125da4.png",
-  "static\\media\\sushi1-min.png": "static/media/sushi1-min.266ef985.png"
+  "static\\media\\sushi1-min.png": "static/media/sushi1-min.266ef985.png",
+  "static\\media\\vale.jpg": "static/media/vale.3662d227.jpg"
 }
